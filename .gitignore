@@ -4,5 +4,5 @@ cypress/videos
 mochawesome-report
 index.json
 old.txt
-
+informacoes
 package-lock.json
